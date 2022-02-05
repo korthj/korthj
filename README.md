@@ -1,4 +1,5 @@
-## Hi there, I'm kort 😁[Profile views](https://gpvc.arturio.dev/korthj)
+## Hi there, I'm kort 😁 ![Profile views](https://gpvc.arturio.dev/korthj)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=korthj&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
