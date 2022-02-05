@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm kort 😁
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=korthj&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
