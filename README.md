@@ -22,3 +22,5 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/korthj/count.svg" />
 </p>
+
+* 현재 주요한 저장소는 비공개 상태 입니다.
